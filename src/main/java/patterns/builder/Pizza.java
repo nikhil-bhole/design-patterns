@@ -1,4 +1,4 @@
-package builder;
+package patterns.builder;
 
 /**
  * Product class

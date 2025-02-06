@@ -1,4 +1,4 @@
-package singleton;
+package patterns.singleton;
 
 /**
  * Private constructor: Prevents external instantiation.
