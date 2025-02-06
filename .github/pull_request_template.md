@@ -9,6 +9,7 @@
 - [ ] New Leetcode question
 - [ ] Code refactor
 - [ ] Documentation update
+- [ ] Design Pattern
 
 ## Checklist
 
