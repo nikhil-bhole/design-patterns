@@ -3,7 +3,7 @@ name: Checkstyle
 on:
   pull_request:
     branches:
-      - main  # Change if your default branch is different
+      - main  # Change if your default branch is different from main
 
 jobs:
   checkstyle:
