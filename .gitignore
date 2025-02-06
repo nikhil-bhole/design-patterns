@@ -1,0 +1,32 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+
+# Compiled class files
+*.class
+
+# Log files
+*.log
+
+# Maven target directory
+target/
+
+# Dependency caches
+.mvn/
+
+# Temporary files
+*.swp
+*.swo
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# JetBrains-specific
+out/
+
+# Exclude build artifacts
+*.jar
+*.war
+*.ear
