@@ -22,7 +22,7 @@ package patterns.structural.adapter;
  * ✅ Flexibility: Makes it easy to integrate third-party or legacy code.
  * ✅ Decoupling: Client code depends only on the adapter, not the legacy system.
  *
- * Would you like another real-world example or a different pattern explained? 🚀
+ *
  */
 public class PaymentAdapter implements NewPaymentGateway {
 
