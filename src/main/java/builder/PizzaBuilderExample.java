@@ -1,6 +1,5 @@
 package builder;
 
-import java.util.*;
 public class PizzaBuilderExample {
 
     public static void main(String[] args) {
